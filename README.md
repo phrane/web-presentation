@@ -21,3 +21,8 @@ presentation example https://deepidea.github.io/web-presentation/
 
 
 Enjoy
+# Added "plugins" folder
+...to address error from missing files - 
++ ERROR `/plugin/highlight/highlight.js' not found.
++ ERROR `/plugin/zoom-js/zoom.js' not found.
++ ERROR `/plugin/notes/notes.js' not found.
